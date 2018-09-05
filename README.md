@@ -15,7 +15,7 @@ the [Ethereum web3 api](https://github.com/ethereum/wiki/wiki/JavaScript-API).
 
 #### Installation
 
-- `git clone git@github.com:link-blockchain/ethereum-explorer.git`
+- `git clone git@github.com:/eddielthomas/EthereumLens.git`
 - `npm install`
 - `npm start` will launch webpack in dev mode, you can browse to the project at localhost:8080
 
